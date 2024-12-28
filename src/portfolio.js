@@ -415,16 +415,17 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  /*
+
   title: "Publications",
   description: "Some of my published Articles, Blogs and Research.",
   avatar_image_path: "projects_image.svg",
-  */
 };
+
+
 
 const publications = {
   data: [
-    /*
+
     {
       id: "neuro-symbolic-sudoku-solver",
       name: "Neuro-Symbolic Sudoku Solver",
@@ -446,9 +447,9 @@ const publications = {
       description: "Blog published in Paperspace",
       url: "https://blog.paperspace.com/consistency-models/",
     },
-    */
   ],
 };
+
 
 // Contact Page
 const contactPageData = {
