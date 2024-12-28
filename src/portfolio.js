@@ -425,7 +425,7 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-
+  /*
     {
       id: "neuro-symbolic-sudoku-solver",
       name: "Neuro-Symbolic Sudoku Solver",
@@ -447,6 +447,7 @@ const publications = {
       description: "Blog published in Paperspace",
       url: "https://blog.paperspace.com/consistency-models/",
     },
+  */
   ],
 };
 

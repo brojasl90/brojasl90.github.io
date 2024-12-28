@@ -119,6 +119,7 @@ class Contact extends Component {
                 >
                   {phoneSection["subtitle"]}
                 </p>
+                {/* This is a comment in React
                 <div className="address-btn-div">
                   <Button
                     text="Visit on Google Maps"
@@ -127,6 +128,7 @@ class Contact extends Component {
                     theme={theme}
                   />
                 </div>
+                 */}
               </div>
             </div>
           </Fade>
