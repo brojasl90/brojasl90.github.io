@@ -471,7 +471,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write cybersecuirty articles and writes-ups about resolving machines on different platforms.",
+      "For individual fundamental empowerment, I like to write cybersecurity articles and writes-ups about resolving machines on different platforms.",
     link: "https://github.com/brojasl90/brojasl90",
     avatar_image_path: "blogs_image.svg",
   },
