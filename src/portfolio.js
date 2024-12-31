@@ -407,25 +407,31 @@ const experience = {
 };
 
 // Projects Page
+  /*
 const projectsHeader = {
+
   title: "Projects",
   description:
     "My projects makes use of vast variety of latest technology tools. My best experience is to create Cybersecuirty projects and write about ctf challenges.",
   avatar_image_path: "projects_image.svg",
+
 };
 
-const publicationsHeader = {
 
+
+const publicationsHeader = {
   title: "Publications",
   description: "Some of my published Articles, Blogs and Research.",
   avatar_image_path: "projects_image.svg",
+
 };
+*/
 
 
-
-const publications = {
-  data: [
   /*
+const publications = {
+
+  data: [
     {
       id: "neuro-symbolic-sudoku-solver",
       name: "Neuro-Symbolic Sudoku Solver",
@@ -447,9 +453,11 @@ const publications = {
       description: "Blog published in Paperspace",
       url: "https://blog.paperspace.com/consistency-models/",
     },
-  */
+
   ],
+
 };
+*/
 
 
 // Contact Page
@@ -496,8 +504,8 @@ export {
   degrees,
   certifications,
   experience,
-  projectsHeader,
-  publicationsHeader,
-  publications,
+  //projectsHeader,
+  //publicationsHeader,
+  //publications,
   contactPageData,
 };

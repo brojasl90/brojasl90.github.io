@@ -72,6 +72,7 @@ class Header extends Component {
                   Experience
                 </NavLink>
               </li>
+              {/*
               <li>
                 <NavLink
                   to="/projects"
@@ -96,6 +97,7 @@ class Header extends Component {
                   Open Source
                 </NavLink>
               </li>
+              */}
               <li>
                 <NavLink
                   to="/contact"
