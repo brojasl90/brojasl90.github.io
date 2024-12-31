@@ -453,6 +453,7 @@ const publications = {
 
 
 // Contact Page
+
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
