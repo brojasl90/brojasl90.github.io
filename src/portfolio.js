@@ -472,7 +472,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write cybersecurity articles and writes-ups about resolving machines on different platforms.",
-    link: "brojasl90.github.io",
+    link: "https://hydd3nit.gitbook.io/brojasl18",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
